@@ -1,0 +1,21 @@
+{
+  "name": "z2m-ident-converter",
+  "version": "1.0.0",
+  "description": "Decimal to Hex Converter",
+  "main": "run.mjs",
+  "keywords": [
+    "z2m",
+    "zigbee2mqtt",
+    "ident",
+    "converter"
+  ],
+  "author": "harkor",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "commander": "^12.1.0"
+  },
+  "scripts": {
+    "start": "node run.mjs"
+  }
+}
