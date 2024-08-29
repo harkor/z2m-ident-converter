@@ -15,8 +15,8 @@ To use this CLI tool, you need to have Node.js and pnpm installed on your machin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/harkor/.git
-   cd your-repository
+   git clone https://github.com/harkor/z2m-ident-converter.git
+   cd z2m-ident-converter
    ```
 
 2. Install the necessary dependencies:
